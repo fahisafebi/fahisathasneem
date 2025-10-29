@@ -1,6 +1,5 @@
-                                                   # Hi 👋, I'm Fahisa Thasneem kp
-
-                                 ### A Passionate Fullstack Developer (PYTHON) From India
+ # Hi 👋, I'm Fahisa Thasneem kp
+### A Passionate Fullstack Developer (PYTHON) From India
 
 - 🔭 I'm currently working on **🔭 I’m currently working on PYTHON-based Full Stack Projects.**
 
