@@ -2,8 +2,6 @@
 
 ### A Passionate Fullstack Developer (PYTHON) From India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahisafebi&label=Profile views&color=0e75b6&style=flat" alt="fahisafebi" /> </p>
-
 - 🔭 I'm currently working on **🔭 I’m currently working on PYTHON-based Full Stack Projects.**
 
 - 🌱 I'm currently learning **🌱I'm currently learning Python Full Stack Development (Django, React, MySQL)**
